@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { ApiRestService } from '../api-rest.service';
 
 
+ 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
